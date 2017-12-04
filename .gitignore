@@ -1,7 +1,3 @@
-es/
-scss/
-css/
-cjs/
 node_modules
 .DS_Store
 *.log
